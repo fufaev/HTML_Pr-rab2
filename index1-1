@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <title>Мой первый сайт!</title>
+ </head>
+ <body>
+  <h3>Начальник Русинович М.C.</h3>
+  <p>Привет, друзья!!!</p>
+  <ol type="I">
+   <li>Мама</li>
+   <li>Папа</li>
+   <li>Брат</li>
+   <li>Сестра</li>
+	   <ul type="square">   
+		 <li>Бабушка</li>
+			 <ol type="a">
+			   <li>Дедушка</li>
+			 </ol>
+	   </ul> 
+  </ol>
+  <hr>
+  <a href="\Занятие 2\Images\pic1.jpg" target="_blank" title="Сайт Onliner.by">Интересный сайт обо всём!</a><br>
+  <a href="mailto:v.fufaev@niks.by" >Написать преподавателю!</a><br>
+  <a href="tel:+375295551555">Тел: (029)555-1-555 МТС</a><br>
+ </body>
+</html>
+  
